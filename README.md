@@ -76,7 +76,7 @@ If you use this code in your research, please cite the following paper:
 
 ```markdown
 This work was conducted as a collaboration between the  
-**Department of Psychology** and the **Department of Computer and Systems Sciences**, Stockholm University.
+__Department of Psychology__ and the __Department of Computer and Systems Sciences__, Stockholm University.
 
-> _The project was made possible by funding from the **Marcus and Amalia Wallenberg Memorial Foundation** (grant **MAW 2022.0062**)._
+The project was made possible by funding from the **Marcus and Amalia Wallenberg Memorial Foundation** (grant **MAW 2022.0062**).
 ```
