@@ -1,0 +1,71 @@
+item,code
+1. Upprörd,i_panas_sf_1
+2. Rädd,i_panas_sf_2
+3. Fientlig,i_panas_sf_3
+"4. Pigg, vaken ",i_panas_sf_4
+5. Inspirerad ,i_panas_sf_5
+6. Beslutsam ,i_panas_sf_6
+7. Uppmärksam ,i_panas_sf_7
+8. Skamsen,i_panas_sf_8
+9. Nervös,i_panas_sf_9
+10. Aktiv,i_panas_sf_10
+1. Gott samarbete ,interaction_1
+2. Engagemang,interaction_2
+"3. Stelt, obekvämt",interaction_3
+1. Hur trovärdig var din partner? ,appreciation_1
+2. Hur mycket litar du på din partner? ,appreciation_2
+3. Hur sanningsenlig var din partner? ,appreciation_3
+"4. Denna fråga avser dig själv, inte din interaktionspartner. Hur ärlig var du under interaktionen? ",appreciation_4
+1. Jag kan titta på en tavla en lång stund,bhi_1
+2. Jag ser till att saker ligger på rätt ställe,bhi_2
+3. Jag fortsätter vara ovänlig mot någon som behandlat mig illa,bhi_3
+4. Ingen gillar att prata med mig,bhi_4
+5. Jag är rädd för smärta,bhi_5
+6. Jag tycker att det är svårt att ljuga,bhi_6
+7. Jag tycker att det är tråkigt med vetenskap,bhi_7
+8. Jag skjuter upp krångliga uppgifter så länge som möjligt,bhi_8
+9. Jag är ofta kritisk,bhi_9
+10. Jag har lätt för att ta kontakt med nya människor,bhi_10
+11. Jag oroar mig generellt mindre än andra,bhi_11
+12. Jag skulle gärna vilja veta hur man tjänar mycket pengar på ett oärligt sätt,bhi_12
+13. Jag har bra fantasi,bhi_13
+14. Jag är väldigt noggrann när jag arbetar,bhi_14
+15. Jag tenderar att snabbt hålla med om vad andra tycker,bhi_15
+16. Jag gillar att konversera,bhi_16
+17. Jag har lätt för att på egen hand övervinna svårigheter,bhi_17
+18. Jag vill bli känd,bhi_18
+19. Jag gillar människor med konstiga ideer,bhi_19
+20. Jag gör ofta saker utan att tänka mig för,bhi_20
+21. Även när jag behandlas illa behåller jag lugnet,bhi_21
+22. Jag är sällan glad,bhi_22
+23. Jag gråter när jag tittar på romantiska eller sorgliga filmer,bhi_23
+24. Jag har rätt till särbehandling,bhi_24
+1. När jag känner mig nedstämd kan jag enkelt göra en koppling mellan mina känslor och den situation som påverkade mig.,s_pec_1
+2. Jag har svårt att lyssna på människor som klagar.,s_pec_2
+3. Jag kan lätt få det jag vill ha från andra. ,s_pec_3
+4. Jag har svårt att hantera mina känslor.,s_pec_4
+5. Jag förstår varför människor känner som de gör.,s_pec_5
+"6. När jag mår bra, kan jag lätt säga om det beror på att jag är stolt över mig själv, glad eller avslappnad.",s_pec_6
+7. Jag är ganska omedveten om andra människors känslor.,s_pec_7
+8. Jag är bra på att känna av vad andra känner.,s_pec_8
+9. När jag möter någon som gråter så vet jag inte vad jag ska göra.,s_pec_9
+"10. När blir  arg, så har jag lätt att lugna ner mig.",s_pec_10
+11. Jag förstår inte varför människor runt omkring mig reagerar som de gör.,s_pec_11
+12. Jag är bra på att beskriva mina känslor. ,s_pec_12
+13. När jag blir rörd av något så vet jag direkt vilken känsla som jag känner.,s_pec_13
+14. Om jag vill så kan jag enkelt få en annan människa att känna sig illa till mods.,s_pec_14
+15. Jag har svårt att förstå varför jag reagerar på det sätt jag gör.,s_pec_15
+"16. Jag tycker att det är svårt att förklara mina känslor för andra, även när jag verkligen vill.",s_pec_16
+17. Andra människor tenderar att anförtro mig personliga saker.,s_pec_17
+18. Mina känslor talar om för mig vilka förändringar som jag borde göra i mitt liv.,s_pec_18
+"19. När jag möter någon som är stressad eller orolig, kan jag lätt lugna ner dem.",s_pec_19
+1. Jag undviker att göra mina personliga livsval baserade på mina känslor.,ecr_sr_1
+2. Det hjälper att vända sig till andra när jag behöver det. ,ecr_sr_2
+3. Jag diskuterar vanligtvis mina problem och bekymmer med andra. ,ecr_sr_3
+4. Jag pratar igenom saker med andra. ,ecr_sr_4
+5. Jag tycker det är lätt att förlita mig på andra. ,ecr_sr_5
+6. Jag känner mig inte bekväm med att öppna mig för andra. ,ecr_sr_6
+7. Jag föredrar att inte visa andra hur jag egentligen känner. ,ecr_sr_7
+8. Jag oroar mig ofta för att andra människor egentligen inte bryr sig om mig. ,ecr_sr_8
+9. Jag är rädd att andra människor kan överge mig. ,ecr_sr_9
+10. Jag oroar mig för att andra inte bryr sig om mig lika mycket som jag bryr mig om dem. ,ecr_sr_10
