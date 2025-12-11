@@ -1,0 +1,224 @@
+Rocket on merged_openface_out
+Confusion Matrix:
+[[4 6]
+ [4 8]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.50      0.40      0.44        10
+           1       0.57      0.67      0.62        12
+
+    accuracy                           0.55        22
+   macro avg       0.54      0.53      0.53        22
+weighted avg       0.54      0.55      0.54        22
+
+Rocket on openface_out_A
+Confusion Matrix:
+[[2 8]
+ [6 6]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.25      0.20      0.22        10
+           1       0.43      0.50      0.46        12
+
+    accuracy                           0.36        22
+   macro avg       0.34      0.35      0.34        22
+weighted avg       0.35      0.36      0.35        22
+
+CIF on merged_openface_out
+Confusion Matrix:
+[[3 7]
+ [4 8]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.43      0.30      0.35        10
+           1       0.53      0.67      0.59        12
+
+    accuracy                           0.50        22
+   macro avg       0.48      0.48      0.47        22
+weighted avg       0.49      0.50      0.48        22
+
+CIF on openface_out_A
+Confusion Matrix:
+[[2 8]
+ [5 7]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.29      0.20      0.24        10
+           1       0.47      0.58      0.52        12
+
+    accuracy                           0.41        22
+   macro avg       0.38      0.39      0.38        22
+weighted avg       0.38      0.41      0.39        22
+
+Rocket on merged_opensmile_out
+Confusion Matrix:
+[[6 4]
+ [3 9]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.60      0.63        10
+           1       0.69      0.75      0.72        12
+
+    accuracy                           0.68        22
+   macro avg       0.68      0.68      0.68        22
+weighted avg       0.68      0.68      0.68        22
+
+Rocket on opensmile_out_A
+Confusion Matrix:
+[[7 3]
+ [5 7]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.58      0.70      0.64        10
+           1       0.70      0.58      0.64        12
+
+    accuracy                           0.64        22
+   macro avg       0.64      0.64      0.64        22
+weighted avg       0.65      0.64      0.64        22
+
+CIF on merged_opensmile_out
+Confusion Matrix:
+[[ 4  6]
+ [ 2 10]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.67      0.40      0.50        10
+           1       0.62      0.83      0.71        12
+
+    accuracy                           0.64        22
+   macro avg       0.65      0.62      0.61        22
+weighted avg       0.64      0.64      0.62        22
+
+CIF on opensmile_out_A
+Confusion Matrix:
+[[5 5]
+ [3 9]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.62      0.50      0.56        10
+           1       0.64      0.75      0.69        12
+
+    accuracy                           0.64        22
+   macro avg       0.63      0.62      0.62        22
+weighted avg       0.63      0.64      0.63        22
+
+Rocket on merged_openface_out_cut
+Confusion Matrix:
+[[22 32]
+ [29 37]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.43      0.41      0.42        54
+           1       0.54      0.56      0.55        66
+
+    accuracy                           0.49       120
+   macro avg       0.48      0.48      0.48       120
+weighted avg       0.49      0.49      0.49       120
+
+Rocket on openface_out_A_cut
+Confusion Matrix:
+[[26 28]
+ [36 30]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.42      0.48      0.45        54
+           1       0.52      0.45      0.48        66
+
+    accuracy                           0.47       120
+   macro avg       0.47      0.47      0.47       120
+weighted avg       0.47      0.47      0.47       120
+
+CIF on merged_openface_out_cut
+Confusion Matrix:
+[[18 36]
+ [32 34]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.36      0.33      0.35        54
+           1       0.49      0.52      0.50        66
+
+    accuracy                           0.43       120
+   macro avg       0.42      0.42      0.42       120
+weighted avg       0.43      0.43      0.43       120
+
+CIF on openface_out_A_cut
+Confusion Matrix:
+[[21 33]
+ [36 30]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.37      0.39      0.38        54
+           1       0.48      0.45      0.47        66
+
+    accuracy                           0.42       120
+   macro avg       0.42      0.42      0.42       120
+weighted avg       0.43      0.42      0.43       120
+
+Rocket on merged_opensmile_out_cut
+Confusion Matrix:
+[[21 28]
+ [26 28]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.45      0.43      0.44        49
+           1       0.50      0.52      0.51        54
+
+    accuracy                           0.48       103
+   macro avg       0.47      0.47      0.47       103
+weighted avg       0.47      0.48      0.48       103
+
+Rocket on opensmile_out_A_cut
+Confusion Matrix:
+[[26 23]
+ [24 30]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.52      0.53      0.53        49
+           1       0.57      0.56      0.56        54
+
+    accuracy                           0.54       103
+   macro avg       0.54      0.54      0.54       103
+weighted avg       0.54      0.54      0.54       103
+
+CIF on merged_opensmile_out_cut
+Confusion Matrix:
+[[20 29]
+ [24 30]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.45      0.41      0.43        49
+           1       0.51      0.56      0.53        54
+
+    accuracy                           0.49       103
+   macro avg       0.48      0.48      0.48       103
+weighted avg       0.48      0.49      0.48       103
+
+CIF on opensmile_out_A_cut
+Confusion Matrix:
+[[18 31]
+ [27 27]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0       0.40      0.37      0.38        49
+           1       0.47      0.50      0.48        54
+
+    accuracy                           0.44       103
+   macro avg       0.43      0.43      0.43       103
+weighted avg       0.43      0.44      0.43       103
+
