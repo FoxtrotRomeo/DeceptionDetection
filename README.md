@@ -51,3 +51,18 @@ Use the Jupyter notebooks to run and visualize the experiments step-by-step.
 
 🧪 Run persistent scripts:
 Use the Python scripts to run full training/evaluation pipelines.
+
+Citation:
+If you use this code in your research, please cite the paper:
+@misc{rugolon2025deception,
+  title={Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort},
+  author={Rugolon, Franco and Samuels, Thomas Jack and Hau, Stephan and Högman, Lennart},
+  year={2025},
+  eprint={2506.21429},
+  archivePrefix={arXiv},
+  primaryClass={cs.LG}
+}
+
+Acknowledgments
+This work was conducted as a collaboration between the Department of Psychology and the Department of Computer and Systems Sciences, Stockholm University.
+The project was made possible by funding from The Marcus and Amalia Wallenberg Memorial Foundation (grant MAW 2022.0062).
