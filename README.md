@@ -57,18 +57,16 @@ Use the Python scripts to run full training/evaluation pipelines.
 
 If you use this code in your research, please cite the following paper:
 
-> **Rugolon, F.**, et al. (2025).  
+> **Samuels, T.**, et al. (2025).  
 > _Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort_.  
 > [arXiv:2506.21429](https://arxiv.org/abs/2506.21429)
 
 ```bibtex
-@misc{rugolon2025deception,
-  title={Deception Detection in Dyadic Exchanges Using Multimodal Machine Learning: A Study on a Swedish Cohort},
-  author={Rugolon, Franco and [co-authors]},
-  year={2025},
-  eprint={2506.21429},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
+@article{samuels2025deception,
+  title={Deception detection in dyadic exchanges using multimodal machine learning: A study on a Swedish cohort},
+  author={Samuels, Thomas Jack and Rugolon, Franco and Hau, Stephan and H{\"o}gman, Lennart},
+  journal={arXiv preprint arXiv:2506.21429},
+  year={2025}
 }
 ```
 
