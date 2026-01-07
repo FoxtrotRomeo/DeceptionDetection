@@ -7,7 +7,8 @@ Preprint available on [arXiv](https://arxiv.org/abs/2506.21429).
 
 The goal of this repository is to increase the reproducibility of our experiments and provide a reference implementation for future research on multimodal deception detection, particularly in dyadic contexts.
 
-> ⚠️ **Note**: The dataset used in this study is protected and cannot be shared due to ethical and privacy restrictions.
+> ⚠️ **Note**: The original data (audio and video recordings) used in this study is protected and cannot be shared due to ethical and privacy restrictions.
+> However, we share the derived feature-level data used in all analyses, consisting of CSV files extracted from the recordings using OpenFace and openSMILE.
 
 ---
 
